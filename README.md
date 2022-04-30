@@ -31,7 +31,7 @@
    
 	hobbies = [
 				'Bike Rides',
-        'Gaming',
+        			'Gaming',
 				'Travelling',
 				'Cooking
 			]
