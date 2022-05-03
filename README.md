@@ -19,7 +19,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 
 - :student: I’m currently learning: `Full Stack Web Development `.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](drive link).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1PlVUuZMbesFHDtXLVPBw5qi61Usexoxn/view?usp=sharing).
 -  :thinking: You can Check my Portfolio here. This is [MY Portfolio](verssal link)
 - :nerd_face: Always `learning new things`
 
@@ -98,8 +98,32 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+	 &emsp;
+    <a href="https://developer.mozilla.org/react" target="_blank"> 
+     <img alt="react" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black">
+   </a>
+	&emsp; 
+  <a href="https://react-redux.js.org/" target="_blank"> 
+   <img alt="REACT-REDUX" src="https://img.shields.io/badge/react-redux%20-%23E34F26.svg?style=plastic&logo=react-redux&logoColor=white">
+  </a> 
 </p>
 
+
+### 👉 Backtend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.mongodb.com/docs/" target="_blank"> 
+   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB%20-%2334A853.svg?style=plastic&logo=mongodb&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <img alt="nodejs" src="https://img.shields.io/badge/Node_JS%20-%2334A853.svg?style=plastic&logo=Node-js&logoColor=white">
+  </a> 
+  &emsp;
+    <a href="https://devdocs.io/express/" target="_blank"> 
+     <img alt="express" src="https://img.shields.io/badge/express%20-%23000000?style=plastic?logo=express&logoColor=white">
+   </a>
+</p>
   
  ### 👉 Software & Tools
  
