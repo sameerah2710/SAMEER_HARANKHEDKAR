@@ -33,7 +33,7 @@
 				'Bike Rides',
         			'Gaming',
 				'Travelling',
-				'Cooking
+				'Cooking'
 			]
 	
 	def getCity():
