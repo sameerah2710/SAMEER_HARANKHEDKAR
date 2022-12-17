@@ -20,7 +20,7 @@
 
 - :student: I’m currently learning: `Full Stack Web Development `.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1PlVUuZMbesFHDtXLVPBw5qi61Usexoxn/view?usp=sharing).
--  :thinking: You can Check my Portfolio here. This is [MY Portfolio](verssal link)
+-  :thinking: You can Check my Portfolio here. This is [MY Portfolio](https://my-portfolio-sameerah2710.vercel.app/)
 - :nerd_face: Always `learning new things`
 
  ```python
